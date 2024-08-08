@@ -1,0 +1,142 @@
+,.body{
+    margin: 50px;
+    list-style: doted;
+    background-color: azure;
+    border: 2px dashed gray;
+    
+}
+.header{
+
+width: 100%;
+
+
+
+
+    
+}
+hr{
+    width: 95%;
+    
+
+  
+}
+h1{
+   
+  padding-top: 50px;
+  text-transform: uppercase;
+  font-size:35px ;
+  font-weight: 500px;
+  word-spacing: 8px;
+}
+h2{
+    text-transform: uppercase;
+    font-size:24px ;
+    font-weight: 350px;
+    word-spacing: 4px;
+  } 
+  h3{
+    font-size: 20px;
+    font-weight: 250px;
+  }
+
+.hand{
+    
+   margin-left:350px;
+    text-align:left;
+    height: 250px;
+    margin-top: 100px;
+    
+    
+
+}
+.logo{
+    float: left;
+     padding-right: 10px;
+}
+img{
+    width: 250px;
+    height: 300px;
+    margin-left: 50px;
+    background-color: azure;
+}
+.name{
+   
+    width: 100%;
+    display: inline-flex;
+    float: left;
+    margin-left: 50px;
+    padding-right: 150px;
+ 
+}
+
+table{
+    width: 100%;
+  border:3px;
+  text-align: left;
+  line-height: 20px;
+  margin-left: 50px;
+  padding-right: 150px;
+}
+tr{
+    margin-top: 30px;
+    
+}
+th{
+    line-height: 40px;
+    text-align: left;
+    font-weight: bold;
+    
+}
+td{
+   font-size: 23px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+
+h3{
+    text-align: right;
+    
+    padding-right: 120px;
+}
+h4{
+   
+    padding-right: 50px;
+    font-size: 28px;
+    font-weight: 100px;
+}
+h5{
+    font-size: 28px;
+    display: flex;
+     padding-left: 30px;
+     padding-right: 30px;
+}
+.alex{
+    
+    padding-top: 30px;
+    
+   
+
+}
+.stamp{
+   
+    border-collapse: collapse;
+    height:50px;
+    width: 60px;
+    background-position:right;
+
+    float:right;
+    padding-right: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+background-image: url(alex2.jpeg) ;
+}
+@media screen {
+    body{
+        max-width: 1200x;
+        margin: 50px;
+
+    }
+    
+        
+
+}
